@@ -30,3 +30,7 @@
 2. [Число десятков числа](2/2.5/step-6/solution.go) ([задача](https://stepik.org/lesson/917015/step/6?unit=922794))
 3. [Сумма цифр](2/2.5/step-7/solution.go) ([задача](https://stepik.org/lesson/917015/step/7?unit=922794))
 4. [Перевёрнутое число](2/2.5/step-8/solution.go) ([задача](https://stepik.org/lesson/917015/step/8?unit=922794))
+
+### Вещественные числа
+
+1. [Площадь круга](2/2.6/step-3/solution.go) ([задача](https://stepik.org/lesson/917016/step/3?unit=922795))
