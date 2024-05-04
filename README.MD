@@ -34,3 +34,4 @@
 ### Вещественные числа
 
 1. [Площадь круга](2/2.6/step-3/solution.go) ([задача](https://stepik.org/lesson/917016/step/3?unit=922795))
+2. [Площадь треугольника](2/2.6/step-4/solution.go) ([задача](https://stepik.org/lesson/917016/step/4?unit=922795))
