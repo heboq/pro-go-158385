@@ -7,11 +7,10 @@ import (
 
 func main() {
 	var radius float64
-	pi := 3.14
-
 	fmt.Scanln(&radius)
 
-	area := pi * math.Pow(radius, 2)
+	pi := 3.14
+	circleArea := pi * math.Pow(radius, 2)
 
-	fmt.Println(area)
+	fmt.Println(circleArea)
 }
